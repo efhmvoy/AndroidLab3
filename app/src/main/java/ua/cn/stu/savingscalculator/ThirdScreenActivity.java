@@ -98,7 +98,7 @@ public class ThirdScreenActivity extends AppCompatActivity  implements RetainFra
 
         {
             Sy.setText(String.valueOf(result[0]));
-            Log.d("huita", Arrays.toString(result));
+            Log.d("kek", Arrays.toString(result));
             Sc.setText(String.valueOf(result[1]));
             W.setText(String.valueOf(result[2]));
             Sh.setText(String.valueOf(result[3]));
